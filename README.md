@@ -1,4 +1,4 @@
-# Optimizing Loan Decisions with Machine-Learning
+# Optimizing Loan Decisions with Machine Learning
 
 ## Project Overview
 LoanTap is a digital platform offering tailored financial solutions to millennials. This project focuses on developing a machine learning model to evaluate the creditworthiness of individuals applying for personal loans. The objective is to assess whether a credit line should be extended to an applicant and provide business recommendations on repayment terms.
